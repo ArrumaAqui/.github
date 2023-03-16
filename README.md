@@ -12,5 +12,5 @@ Esse é um projeto idealizado e realizado pelos alunos da turma 3 ADS-C
 ## Fluxo de desenvolvimento
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ArrumaAqui/ArrumaAqui/main/assets/fluxoDesenvolvimento.png?token=GHSAT0AAAAAAB6FYQPOT45OM5W5U35IGWL4ZATBLQA" />
+  <img src="https://user-images.githubusercontent.com/99891936/225621390-81a7551d-40c7-4fc9-9bec-43b960db6e9d.png"/>
 </div>
