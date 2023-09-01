@@ -1,6 +1,6 @@
 # ArrumaQui
 
-Esse é um projeto idealizado e realizado pelos alunos da turma 3 ADS-C
+Esse é um projeto idealizado e realizado pelos alunos da turma 4 ADS-C
 
 - [Fabiano Souza](https://github.com/FabianoSouzaCotrim)
 - [Lucas França](https://github.com/MasterLucca)
